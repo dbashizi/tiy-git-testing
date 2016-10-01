@@ -1,1 +1,10 @@
 Just some content to test (from testing1)
+Here is some more lines
+
+of text for us to 
+
+see the difference between two
+
+versions of the files 
+
+version: 0.0.1
